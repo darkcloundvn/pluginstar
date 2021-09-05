@@ -1,1 +1,16 @@
-
+{
+    "name": "darkcloundvn/pluginstar",
+    "type": "library",
+    "description": "jquery plugin star",
+    "keywords": ["star","jquery plugin star"],
+    "homepage": "https://github.com/darkcloundvn/pluginstar",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nguyen Hoang Nam",
+            "email": "kythuat.iweb@gmail.com",
+            "homepage": "http://i-web.vn",
+            "role": "Developer"
+        }
+    ]
+}
