@@ -2,7 +2,7 @@
 
 /*
 * plugin comment star
-* author: nguyễn hoàng nam
+* author: Nguyen Hoang Nam
 * modify 04/09/2021
 */
 (function($){
