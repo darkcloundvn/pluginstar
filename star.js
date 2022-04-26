@@ -5,6 +5,7 @@
 * author: Nguyen Hoang Nam
 * modify 04/09/2021
 */
+// modify source
 (function($){
 	
 	$.fn.commentStar=function(options){
